@@ -7,6 +7,7 @@
 
 	SubShader
 	{
+		Tags{"RenderType"="Test" }
 		Pass{
 			Tags{"LightMode"="ForwardBase"}
 
